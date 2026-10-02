@@ -6,6 +6,14 @@ I'm a hands-on founder with a background in enterprise software, early-stage sta
 
 [Website](https://remodelmyhome.ai) · [Explore RMH](https://app.remodelmyhome.ai) · [LinkedIn](https://www.linkedin.com/in/sghosh-tech-lead/)
 
+## RMH in action
+
+[![RMH retailer demo showing a before-and-after kitchen visualization alongside selected materials, specifications, and pricing](./rmh-before-after.png)](https://app.remodelmyhome.ai/o/aurelia-stone)
+
+**RMH co-branded retailer demo:** Before-and-after visualization connected to selected materials, product specifications, pricing, and multiple room views.
+
+[Explore the retailer demo →](https://app.remodelmyhome.ai/o/aurelia-stone)
+
 ## What I'm building at RMH
 
 ### CV-grounded visualization
